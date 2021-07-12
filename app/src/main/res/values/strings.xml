@@ -9,4 +9,8 @@
     <string name="pre_sale_desc">Tidak Khawatir ketinggalan \n update film terbaru</string>
     <string name="cashless">Tanpa Cash</string>
     <string name="cashless_desc">Gunakan E-wallet untuk \n transaksi ticket nonton</string>
+    <string name="sign_in">Masuk</string>
+    <string name="username">Nama User</string>
+    <string name="password">Kata Sandi</string>
+    <string name="register">Daftar</string>
 </resources>
